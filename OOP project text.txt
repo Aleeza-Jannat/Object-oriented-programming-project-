@@ -1,0 +1,63 @@
+MCQ
+How is the founder of Pakistan?
+Quaid-e-Azam
+Nawaz Sharif
+Donald Trump
+Rahat Fateh Ali Khan
+COMPLETE
+What is the symbol of Iron ?
+Fe
+TF
+At 1917 German declared war on Russia and France?(True/False)
+false
+MCQ
+What is the richest source of Vitamin C?
+Guava
+Grapes
+Lemon
+oranges
+MCQ
+Which of the following is not a feature of Object-Oriented Programming (OOP) in C++?
+Multiple inheritance for functions only
+Encapsulation
+Polymorphism
+Inheritance
+MCQ
+Who discovered America?
+Columbus 
+Imran Khan 
+Abida parveen
+Vladimir Putin
+COMPLETE
+Who was the first prime minsiter of Pakistan?
+Liaquat Ali Khan
+MCQ
+Who wrote Romeo and Juliet? 
+Shakespeare
+Dickens
+Hemingway
+Austen
+MCQ
+What is 2+2?
+4
+20
+3
+22
+TF
+The first Olympics in the city of Olympia in Greece took place in 776 BC?
+true
+MCQ
+C++ is mostly used for?
+Game develpoment 
+Web development 
+Graphic designing
+Nothing
+COMPLETE
+Pakistan was recognized as a seperate country?
+1947
+MCQ
+Which cycle is known by the name of its scientist?
+Kreb cycle
+Bicycle
+Glycolysis
+Lipolysis
